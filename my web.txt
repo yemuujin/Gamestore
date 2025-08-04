@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Game Shop</title>
+    <style>
+        body { background-color: black; color: white; text-align: center; }
+        .game { display: inline-block; margin: 10px; }
+    </style>
+</head>
+<body>
+    <h1>GAME SHOP.MN</h1>
+    <h2>САНАЛ БОЛГОХ</h2>
+    <div class="game">Mobile Legends</div>
+    <div class="game">PUBG</div>
+    <button onclick="alert('Тусламж!')">Тусламж</button>
+</body>
+</html>
